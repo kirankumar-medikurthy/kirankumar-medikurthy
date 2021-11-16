@@ -23,7 +23,7 @@ I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering a
 - 🌱  I’m currently learning and 👨‍💻 I’m looking for job.
 - 📫 How to reach me: kiran1999m1234@gmail.com
 - 📫 My Portfolio: [](#)
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/130idW3WkVu2IAjOgPeoBrQ58Ep5NjS8y/view?usp=sharing)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1FT8jpMiY11JbFPBQOlRI0wgNTWj-QjJW/view?usp=sharing)
 - 💬 Ask me anything about the Full Stack Web Development, I am very much happy to help;
 
 
