@@ -35,10 +35,11 @@ I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering a
 
 
 
+<img alt="Suhail's github stats" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kirankumar-medikurthy&show_icons=true&hide_border=true" />
 
 
 
-<img alt="Suhail's github langs" align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumar-medikurthy&langs_count=10&layout=compact&hide_border=true" />
+<img alt="Suhail's github langs" align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumar-medikurthy&langs_count=10&layout=compact&hide_border=true" />
 
 
 
