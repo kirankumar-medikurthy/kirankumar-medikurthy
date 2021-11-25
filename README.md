@@ -64,7 +64,7 @@ I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering a
 <br/>
 <br/>
 <br/>
-<!--<a href="https://github.com/kirankumar-medikurthy/github-readme-activity-graph"><img alt="KirankumarMeidkurthy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirankumar-medikurthy&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+<a href="https://github.com/kirankumar-medikurthy/github-readme-activity-graph"><img alt="KirankumarMeidkurthy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirankumar-medikurthy&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
