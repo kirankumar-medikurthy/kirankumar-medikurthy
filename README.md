@@ -1,4 +1,4 @@
-Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Kirankumar Medikurthy, Aspiring Full Stack Web Developer
+Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, I'm Kirankumar Medikurthy, Aspiring Full Stack Web Developer
 
 ### Let's Connect on social media
 
