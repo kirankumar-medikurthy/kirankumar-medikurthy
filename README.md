@@ -15,7 +15,7 @@ Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wav
 
 
 ### About Me
-Currently, I'm  Working as <b>Front End Engineer </b> at [6thStreet.com](https://en-ae.6thstreet.com/men.html).
+Currently, I'm  Working as <b> Software Engineer </b> at [Turno](https://turno-nextjs-website.vercel.app/).
 
 I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering and Technology</b> in the year of 2021.
 
