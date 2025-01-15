@@ -23,7 +23,7 @@ I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering a
 
 - 🌱  I’m currently learning spring boot framework and 👨‍💻 I’m looking for a backend job.
 - 📫 How to reach me: kirankumarmedikurthy@gmail.com
-- 📫 My Portfolio: [https://kirankumar-portfolio.vercel.app/](https://kirankumar-portfolio.vercel.app/)
+- 📫 My Portfolio: [https://kirankumar-medikurthy-portfolio.vercel.app/](https://kirankumar-medikurthy-portfolio.vercel.app/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1lX-VB4kjg_lNSYP8q2sNapMaesOR5bMR/view?usp=sharing)
 - 💬 Ask me anything about Full Stack Web Development, I am very much happy to help;
 
