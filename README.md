@@ -24,14 +24,14 @@ I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering a
 - 🌱  I’m currently learning spring boot framework and 👨‍💻 I’m looking for a backend job.
 - 📫 How to reach me: kirankumarmedikurthy@gmail.com
 - 📫 My Portfolio: [https://kirankumar-medikurthy-portfolio.vercel.app/](https://kirankumar-medikurthy-portfolio.vercel.app/)
-- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1lX-VB4kjg_lNSYP8q2sNapMaesOR5bMR/view?usp=sharing)
+- 📫 My Resume: [View PDF](https://drive.google.com/file/d/1Tv3h3c1v4teHtgftw1p-lmPBuYhuLiK7/view?usp=sharing)
 - 💬 Ask me anything about Full Stack Web Development, I am very much happy to help;
 
 
-### Tools and Skills <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width=50px>
+### Tools and Skills <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwa2ZvZm04bWsyaWpwNmJiY2VmbWJ4Nm54Mmc4dnNzcWhqMXR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyQqyt9S1WTiE6c/giphy.gif" width=50px>
 
 - 🚀 Languages - **HTML, CSS, JavaScript, Java**
-- 🚀 FrameWork/Libraries - **React.js, Express.js**
+- 🚀 FrameWork/Libraries - **Next.js, React.js, Express.js**
 - 🚀 Databases/Backend - **MongoDB, Redis, Node.js, Mysql**
 - 🚀 Others - **Git, Python, VSCode, Postman**
 
