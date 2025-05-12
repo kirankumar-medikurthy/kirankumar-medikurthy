@@ -21,7 +21,7 @@ I am a <b>B.Tech</b> graduate from <b> Mother Theresa Institute of Engineering a
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱  I’m currently learning spring boot framework and 👨‍💻 I’m looking for a backend job.
+- 🌱  I’m currently learning spring boot framework and 👨‍💻 I’m looking for a Full Stack Web Developer job.
 - 📫 How to reach me: kirankumarmedikurthy@gmail.com
 - 📫 My Portfolio: [https://kirankumar-medikurthy-portfolio.vercel.app/](https://kirankumar-medikurthy-portfolio.vercel.app/)
 - 📫 My Resume: [View PDF](https://drive.google.com/file/d/1Tv3h3c1v4teHtgftw1p-lmPBuYhuLiK7/view?usp=sharing)
